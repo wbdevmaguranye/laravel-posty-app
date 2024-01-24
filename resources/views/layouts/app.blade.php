@@ -21,7 +21,7 @@
                <a href="{{route('dashboard')}}"> Dashboard</a>
             </li>
             <li class="p-3">
-                Post
+              <a href="{{route('posts')}}">  Post</a>
             </li>
         </ul>
 
